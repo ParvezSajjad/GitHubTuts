@@ -45,4 +45,7 @@ In git there are three type of config
             iv. git restore # to restore your un-staging file
 
 09. Working with Local Area:
-            i.
+            i. git commit -m "write your message" # for add files on local area
+            ii. git lot # to show all of your commit
+            iii. 
+        
